@@ -1,0 +1,112 @@
+ID	Country	Location details	lat	lon	Phenotype	MIM	Etiology	Etiology_label	Molecular research	Reference	Note
+1	Argentina	San Luis	-33.41	-66.22	Citrullinemia type I	# 215700	AR	Autosomal recessive	CLTN1 p.G390R	Laróvere et al., 2009	
+2	Argentina	Cordoba	-32.04	-65.15	Sandhof disease	# 268800	AR	Autosomal recessive	HEXB (IVS-2 + 1 G-->A, and a 4-bp deletion, delta CTTT782-785)	Brown et al., 1992	
+3	Argentina	Aicuña (La Rioja)	-29.50	-67.76	Oculocutaneous albinism	# 203200	AR	Autosomal recessive	-	Dipierri et al., 2014	
+4	Argentina	Aicuña (La Rioja)	-29.50	-67.76	Ataxia-Telangiectasia	# 208900	AR	Autosomal recessive	-	Dipierri et al., 2013	
+5	Argentina	La Caldera (Salta)	-24.60	-65.38	Werner syndrome	# 277700	AR	Autosomal recessive	-	Dipierri et al.,	
+6	Argentina	Puna Jujeña (Jujuy)	-22.75	-65.90	HTLV-1 associated myelopathy/tropical spastic paraparesis (HAM/TSP)	-	M	Multifactorial	-	Biglioni et al., 2003	
+7	Argentina	San Luis del Palmar (Corrientes)	-27.51	-58.56	Ellis van Creveld syndrome	# 225500	AR	Autosomal recessive	-	Dipierri et al., 2013	
+8	Argentina	San Luis del Palmar (Corrientes)	-27.51	-58.56	Bloom syndrome	# 210900	AR	Autosomal recessive	-	Dipierri et al., 2013	
+9	Argentina	West region of Cordoba	-31.50	-65.20	Pediatric renal tumors, specially Wilms tumor	-	M	Multifactorial	-	Agost., 2019	Approximate location
+10	Argentina	Patagonia*	-42.92	-71.33	Cleft lip with or without cleft palate	-	M	Multifactorial	-	Poletta et al., 2006	
+11	Argentina	NW-Argentina (Catamarca, La Rioja and Tucumán)	-28.47	-65.78	Cleft lip with or without cleft palate	-	M	Multifactorial	-	Poletta et al., 2006	
+12	Bolívia	La Paz, Cochabamba, Tarija	-16.50	-68.15	Cleft lip with or without cleft palate	-	M	Multifactorial	-	Poletta et al., 2006	
+13	Chile	Robinson Crusoe Island (archipelago Juan Fernandez)	-33.64	-78.83	Specific language impairment	# 602081	AD	Autosomal dominant	48 Mb on chromosome 7q	Villanueva et al., 2018; 2011	
+14	Chile	Chiloe Islands	-42.63	-73.65	Chondrocalcinosis	% 600668	AR	Autosomal recessive	-	Reginato et al., 1975	
+15	Chile	Cachapoal	-36.45	-71.73	Achromatopsia	# 262300	AR	Autosomal recessive		Rojas et al., 2002; Cruz-Coke; Moreno, 1994	
+16	Chile	Chillán	-36.60	-72.10	Creutzfeldt-Jakob disease	# 123400	AD	Autosomal dominant	PRPN (200K)	Goldfarb et al., 1991 and Cruz-Coke; Moreno, 1994	
+17	Chile	Maule	-34.98	-71.23	Cleft lip with or without cleft palate	-	M	Multifactorial	-	Poletta et al., 2006	
+18	Colombia	Providence Island (Caribbean Ocean, North West Colombia)	13.35	-81.37	Non-syndromic deafness	# 220290	AR	Autosomal recessive	GJB2 (35delG)	Lattig et al., 2008	
+19	Colombia	Providence Island (Caribbean Ocean, North West Colombia)	13.35	-81.37	Waardenburg Syndrome	-	AD	Autosomal dominant	-	Latting et al., 2008	
+20	Colombia	Ricuarte (Bolívar municipality, Valle del Cauca province)	4.31	-76.21	Fragile X syndrome	# 300624	XLD	X-linked	FMR1 (CCG repeat size alleles)	Saldarriaga et al., 2008	
+21	Colombia	Cali (Valle del Cauca province)	3.43	-76.53	Sirenomelia	-	-	Not informed	-	Orioli et al., 2008	
+22	Colombia	Antioquia	6.27	-75.56	Lynch syndrome	# 609310	AD	Autosomal dominant	MHL1 duplication in (c.1039–8T_1558 896Tdup)	Alonso-Espinaco et al., 2011	
+23	Colombia	Antioquia	6.27	-75.56	Alzheimer disease	# 607822	AD	Autosomal dominant	Presenilin-1 (E280A)	Lopera et al., 1997	
+24	Colombia	Antioquia	6.27	-75.56	Renal tubular acidosis with deafness	# 267300	AR	Autosomal recessive	ATP6V1B1 (c.2T > C)	Nikali et al., 2008	
+25	Colombia	Antioquia	6.27	-75.56	Juvenile Parkinsonism	# 600116	AR	Autosomal recessive	Parkin (Cys212Tyr, G736A)	Pineda-Trujillo et al., 2001; 2006	
+26	Colombia	Antioquia	6.27	-75.56	Blepharophimosis-ptosis-epicanthus syndrome	# 110100	AD	Autosomal dominant	3q23 region	Ramirez-Castro et al., 2002	
+27	Colombia	Antioquia	6.27	-75.56	Jarcho-Levin syndrome	# 277300	AR	Autosomal recessive	-	Montoya; Morales, 2009	
+28	Colombia	Bogotá, Manizales, La Mesa	5.05	-75.52	Preaxial polydactyly	-	M	Multifactorial	-	Gili et al., 2015; 2016	
+29	Ecuador	Cañar	-2.55	-78.93	Microtia	-	M	Multifactorial	-	Gili et al., 2015; 2016	
+30	Ecuador	Cañar and Azogues	-2.55	-78.93	Oral clefts	-	M	Multifactorial	-	Gili et al., 2015; 2016	
+31	Ecuador	Manabí (North West coast of Ecuador)	-0.99	-80.70	Lamellar ichthyosis	# 242300	AR	Autosomal recessive	TGM1 (c.1187G >A)	Esperón-Moldes et al., 2019	
+32	Ecuador	East Ecuador	-1.27	-77.46	Hyperimmunoglobulinemia-E	-	-	Not informed	-	Kaplan et al., 1980	
+33	Ecuador	Loja	-4.00	-79.20	Laron syndrome	# 262500	AR	Autosomal recessive	GHRD (E183X)	Rosenbloom et al., 1990 and Berg et al., 1992	
+34	Ecuador	Quito	-0.18	-78.47	Microtia	-	M	Multifactorial	-	Castilla; Orioli, 1986	
+35	Ecuador	Multiple places**	0.62	-80.43	Cleft lip with or without cleft palate	-	M	Multifactorial	-	Poletta et al., 2006	
+36	French Guyana/Suriname	Maroni River (Bush Negroes Maroons)	4.43	-54.41	B-thalassemia	-	-	Not informed	HBB:c.315+1G>T.	Broquere et al., 2010	
+37	Peru	Widespread Peru (native populations)	-8.83	-75.82	Chitotriosidase deficiency	# 614122	AR	Autosomal recessive	24-bp duplication in CHIT1	Manno et al., 2014	Approximate location
+39	Peru	Trujillo	-8.12	-79.03	Aplasia cutis congenita	-	-	Not informed	-	Tincopa-Wong et al., 1988	
+40	Peru	Loma Negra (La Arena District of Piura Province)	-5.40	-80.73	Berardinelli–Seip syndrome	# 269700	AR	Autosomal recessive	BSCL2 (c.213-1336_c.294+1921 delinsCA)	Purizaca-Rosillo et al., 2017	
+41	Uruguay	Canelones County	-34.53	-56.29	Oculopharyngeal muscular dystrophy	# 164300	AD	Autosomal dominant	PABPN1 ((GCG)11)	Rodríguez et al., 2005	
+42	Venezuela	Coro, Bolivar	8.13	-63.55	Postaxial polydactyly	-	M	Multifactorial	-	Gili et al., 2015; 2016	
+43	Venezuela	Pregonero (State of Táchira, Venezuelan Andes)	8.02	-71.76	Chediak-Higashi syndrome	# 214500	AR	Autosomal recessive	-	Ramírez-Duque et al., 1982	
+44	Venezuela	Margarita Island (Macano Peninsula)	10.99	-63.84	Usher syndrome	# 276900	AR	Autosomal recessive	11q13.5	Keogh et al., 2004	
+45	Venezuela	Margarita Island (Macano Peninsula)	10.99	-63.84	Cleft lip/palate-ectodermal dysplasia syndrome (CLPED1)	# 225060	AR	Autosomal recessive	11q23	Bustos et al., 1991; Suzuki et al., 1998	
+46	Venezuela	Margarita Island (Macano Peninsula)	10.99	-63.84	L-2-Hydroxyglutaric aciduria	# 236792	AR	Autosomal recessive	L2HGDH, c.788C>T	Sass et al., 2008	
+47	Venezuela	Western Venezuela (Barí indians)	8.82	-72.69	Cleft lip	-	AR	Autosomal recessive	-	Ballew et al., 1993	
+48	Venezuela	Colonia Tovar	10.41	-67.29	Inherited deafness	-	-	Not informed	GJB2, c.35dupG (p.V13Cfs*35)	Gendzekhadze et al., 2003; Arias et al., 2021	
+49	Venezuela	Santa Lucía (Miranda State)	10.33	-66.64	Acute intermittent porphyria	# 176000	AD	Autosomal dominant	HMBS (Q180X)	Paradisi; Arias, 2010	
+50	Venezuela	Nirgua (Yaracuy state)	10.16	-68.56	Spinocerebellar ataxia 7	# 164500	AD	Autosomal dominant	ATXN7 (CAG repeats)	Paradisi et al., 2016	
+51	Venezuela	El Tocuyo (Lara state)	9.79	-69.79	Spinocerebellar ataxia 7	# 164500	AD	Autosomal dominant	ATXN7 (CAG repeats)	Paradisi et al., 2016	
+52	Venezuela	Three eastern states: Monagas, Anzoátegui and Bolívar	8.27	-63.36	Spinocerebellar ataxia 1	# 164400	AD	Autosomal dominant	ATXN1 (CAG repeats)	Paradisi et al., 2016	Approximate location
+53	Venezuela	Lake Maracaibo (Zulia State)	9.01	-71.93	Huntington's disease	# 143100	AD	Autosomal dominant	HTT (CAG repeats)	Wexler et al., 2012	
+1	AL	Água Branca	-5.89	-42.64	Aniridia	106210	AD	Autosomal dominant			
+2	AL	Mata Grande	-9.12	-37.74	Chondrodysplasia, Blomstrand Type	215045	AR	Autosomal recessive			
+3	AL	Craibas/ Marruas village	-9.62	-36.77	Consanguinity and Skeletal disorder		NI	Not informed			
+4	AL	Feira Grande	-9.9	-36.68	Huntington Disease	143100	AD	Autosomal dominant			
+5	AL	Maravilha	-9.24	-37.35	Undiagnosed Genodermatosis	173650	AR	Autosomal recessive			
+6	BA	South of Bahia state	-14.7	-41.57	Chondrodysplasia, Grebe Type	200700	AR	Autosomal recessive			Approximate location
+7	BA	Monte Santo	-10.44	-39.33	Consanguinity: MPS6, PKU, Congenital Hypothyroidism and Hearing Loss		AR	Autosomal recessive			
+8	BA	Monte Santo	-10.44	-39.33	Deafness Autosomal Recessive 1A (DFNB1A)	220290	AR	Autosomal recessive			
+9	BA	Vitória da Conquista/ Barra da Estiva/ Livramento de Nossa senhora	-14.86	-40.84	Epidermolysis Bullosa		AR	Autosomal recessive			
+10	BA	Monte Santo	-10.44	-39.33	Mucopolysaccharidosis Type VI (MPS6)	253200	AR	Autosomal recessive			
+12	CE	Tabuleiro do Norte	-5.25	-38.12	Gaucher Disease, Type I	230800	AR	Autosomal recessive			
+13	CE	Geographically dispersed	-5.52	-39.54	Pycnodysostosis	265800	AR	Autosomal recessive			Approximate location
+14	CE	Crateús	-5.25	-40.74	Spinocerebellar Ataxia 7 (SCA7)	164500	AD	Autosomal dominant			
+15	CE	Aracati	-4.56	-37.77	Trichoepithelioma, Familial		AD	Autosomal dominant			
+16	GO	Araras/ Faina village	-22.36	-47.38	Xeroderma Pigmentosum, Complementation Group D (XPD)	278730	AR	Autosomal recessive			
+17	MA	Cururupu/ Ilha dos Lençóis	-1.83	-44.86	Albinism, oculocutaneous	203200	AR	Autosomal recessive			
+18	MA	Cajari/ Regada district	-3.3	-44.88	Thalidomide Embryopathy		Env	Environmental			
+19	MG	Minas Gerais	-18.56	-44.56	Acheiropodia	200500	AR	Autosomal recessive			Approximate location
+20	MG	Pouso Alegre/ São José do Pântano	-22.23	-45.94	Neu-Laxova Syndrome (NLS)	256520	AR	Autosomal recessive			
+21	MG	Alfenas	-21.42	-45.95	Oral clefts	119530	MF	Multifactorial			
+22	MG	Bueno Brandão	-22.44	-46.35	Osteogenesis Imperfecta, Type VI	613982	AR	Autosomal recessive			
+23	MG	Ervalia	-20.84	-42.65	Huntington's disease	143100	AD	Autosomal dominant			
+24	PB	Lagoa	-6.67	-35.36	Consanguinity with increased prevalence of disabilities (mental or physical)		MF	Multifactorial			
+25	PB	Gado Bravo	-6.73	-37.67	Usher syndrome		AR	Autosomal recessive			
+26	PE	Fernando de Noronha	-3.84	-32.41	Alzheimer Disease		AR	Autosomal recessive			
+27	PE	Orobó	-7.74	-35.6	Laron Syndrome	262500	AR	Autosomal recessive			
+28	PE	Brasil/ Recife	-8.05	-34.9	Microcephaly by Zika virus		Env	Environmental			
+29	PE	Gameleira	-8.58	-35.39	Verma-Namouff Syndrome	613091	AR	Autosomal recessive			
+30	PR	Paraná	-24.45	-52.03	Adrenocortical Carcinoma, Hereditary (ADCC)	202300	AD	Autosomal dominant			Approximate location
+31	PR	Mangueirinha/ Reserva Kaingang	-25.95	-52.19	Rheumatoid Arthritis (RA)	180300	MF	Multifactorial			
+32	RJ	Rio de Janeiro	-22.91	-43.2	Breast Cancer		MF	Multifactorial			
+33	RJ	Duque de Caxias	-22.78	-43.31	Periodontitis, Aggressive 1	170650	AR	Autosomal recessive			
+34	RN	São Miguel	-6.22	-38.5	Lipodystrophy, Congenital Generalized, Type 2 (CGL2)	269700	AR	Autosomal recessive			
+35	RN	Riacho de Santana	-6.26	-38.32	Santos Syndrome	613005	AR	Autosomal recessive			
+36	RN	Serrinha dos Pintos	-6.2	-37.99	Spastic Paraplegia, Optic Atrophy and Neuropathy (SPOAN)	609541	AR	Autosomal recessive			
+37	RS	Geographically dispersed	-28	-54	Breast and Ovarian Cancer, Familial	604370	AD	Autosomal dominant			Approximate location
+38	RS	Grande Porto Alegre	-30.03	-51.23	GM1-Gangliosidosis, Type I	230500	AR	Autosomal recessive			
+39	RS	Geographically dispersed	-30	-54	Machado Joseph Disease (MJD)	109150	AD	Autosomal dominant			Approximate location
+40	RS	Cândido Godói	-27.95	-54.77	Twinning		MF	Multifactorial			
+41	SC	Criciúma	-28.68	-49.37	Growth hormone insensitivity with immunodeficiency	245590	AR	Autosomal recessive			
+42	SE	Itabaianinha	-11.27	-37.79	Isolated Growth Hormone Deficiency, Type IA (IGHD1A)	262400	AR	Autosomal recessive			
+43	SE	Itabaiana	-10.69	-37.42	Spectrum of Pubertal Delay		AR	Autosomal recessive			
+44	SP	São Paulo	-23.53	-46.62	Breast and Ovarian Cancer		MF	Multifactorial			
+45	SP	Indaiatuba	-23.09	-47.21	Dandy-Walker Syndrome (DWS)	220200	AR	Autosomal recessive			
+46	SP	Vinhedo	-23.03	-46.98	Fraser Syndrome 1	219000	AR	Autosomal recessive			
+47	SP	Ribeirão Preto	-21.18	-47.82	Gomez-Lopez-Hernandez Syndrome (GLHS)	601853	AR	Autosomal recessive			
+48	SP	Campinas	-22.91	-47.06	GAPO syndrome		-	Not informed			
+49	SP	São Paulo	-23.53	-46.62	Amyotrophic Lateral Sclerosis 8 (ALS8)		AD	Autosomal dominant			
+50	SP	Jacupiranga/Vale do Ribeira	-24.7	-48.01	Hypertension and Consanguinity	145500	AR	Autosomal recessive			
+51	SP	São Paulo	-23.53	-46.62	Isolated Growth Hormone Deficiency		AR	Autosomal recessive			
+52	SP	Vale do Ribeira	-24.62	-48.15	Obesity and Consanguinity	601665	MF	Multifactorial			Approximate location
+53	SP	São Paulo	-23.53	-46.62	Progressive Muscular Dystrophy		XL	X-linked			
+54	SP	São Paulo	-23.53	-46.62	R337H Mutation in TP53 gene in Adrenocortical Tumors		MF	Multifactorial			
+55	SP	São Paulo	-23.53	-46.62	Richieri-Costa-Pereira Syndrome	268305	AR	Autosomal recessive			
+56	SP	Ribeirão Preto	-21.18	-47.82	Spinocerebellar Ataxia 1 (SCA1)	164400	AD	Autosomal dominant			
+57	SP/MG	Mococa e Guaxupé	-21.47	-47	Multiple Endocrine Neoplasia type 1 (MEN1	131100	AD	Autosomal dominant			
+58		South and southeast of Brasil			Li-Fraumeni Syndrome type 1 (LFS1)	151623	AD	Autosomal dominant			Approximate location
+59		South of Brazil (RS and PR)			Skin cancer in Mennonites communities		MF	Multifactorial			Approximate location
+60		Geographically dispersed			p.R337H Mutation in TP53 Locus		MF	Multifactorial			Approximate location
